@@ -1,0 +1,42 @@
+* {
+
+}
+
+.body {
+  width: 725px;
+  height: 100vh;
+  margin: 0px;
+}
+
+.grey {
+  background: #D8D8D8;
+  height: 10%;
+}
+
+.blueBox {
+
+}
+
+.white {
+  padding: auto;
+}
+
+.blue {
+  background: #4A90E2;
+  height: 15%;
+}
+
+.aqua {
+  background: #50E3C2;
+  height: 15%;
+}
+
+.peaGreen {
+  background: #B8E986;
+  height: 15%;
+}
+
+.yellow {
+  background: #F8E71C;
+  height: 15%;
+}
